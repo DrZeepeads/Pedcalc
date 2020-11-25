@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">Medical Child Calculator</string>
+
+    <string name="admob_banner_id">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="admob_interstitial_id">ca-app-pub-3940256099942544/1033173712</string>
+
+    <string name="age">Years</string>
+    <string name="yrs">Years</string>
+    <string name="Weight">Weight</string>
+    <string name="kgs">kg</string>
+    <string name="textinfo">Enter age as a whole number 1-12 years \n\nEnter the child weight if you know it. </string>
+    <string name="go">Calculate</string>
+    <string name="clear">Clear all</string>
+
+    <string name="Defibrillation">Defibrillation:</string>
+    <string name="Adrenaline">Adrenaline:</string>
+    <string name="Amiodarone">Amiodarone:</string>
+    <string name="TrachealTubeID">Tracheal Tube ID:</string>
+    <string name="IVfluidbolus">IV fluid bolus:</string>
+    <string name="Cardioversion">Cardioversion:</string>
+    <string name="Etomidate">Etomidate:</string>
+    <string name="Midazolam">Midazolam:</string>
+    <string name="Thiopental">Thiopental:</string>
+    <string name="Esketamin">Esketamin:</string>
+    <string name="Ketamin">Ketamin:</string>
+    <string name="Morphine">Morphine:</string>
+    <string name="Fentanyl">Fentanyl:</string>
+    <string name="Succinylcholine">Succinylcholine:</string>
+    <string name="Rocuronium">Rocuronium:</string>
+
+
+    <string name="Joules">Joules</string>
+    <string name="mg">mg</string>
+    <string name="ml">ml</string>
+    <string name="mm">mm</string>
+
+    <string name="a1">4 Joules per kg/BW</string>
+    <string name="a2">0.01 mg per kg/BW</string>
+    <string name="a3">5 mg per kg/BW</string>
+    <string name="a4">Age/4+4 (0.5 mm less if cuffed</string>
+    <string name="a5">20 ml per kg/BW</string>
+    <string name="a6">1 Joule (2nd: 2 Joules) per kg/BW</string>
+    <string name="a7">0.2-0.3 mg per kg/BW</string>
+    <string name="a8">0.1-0.2 mg per kg/BW</string>
+    <string name="a9">3-5 mg per kg/BW</string>
+    <string name="a10">0.5-1 mg per kg/BW</string>
+    <string name="a11">1-2 mg per kg/BW</string>
+    <string name="a12">0.1 mg per kg/BW</string>
+    <string name="a13">0.001-0.003 mg per kg/BW</string>
+    <string name="a14">1.5 mg per kg/BW</string>
+    <string name="a15">1 mg per kg/BW</string>
+
+
+</resources>
